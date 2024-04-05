@@ -8,7 +8,7 @@ getgenv().Owner = 'YourOwnerUserNamehere' --This is just example dont put your u
 
 ]]
 
-getgenv().Owner = 'kylian972215972' --// ! Username Of Owner ! \\--
+getgenv().Owner = 'kylian972215' --// ! Username Of Owner ! \\--
 
 --\\-- Stand-Settings --//--
 getgenv().XKang = {
