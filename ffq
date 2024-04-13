@@ -10,7 +10,7 @@ getgenv()._=
 --// ! Username Of Owner ! \\--
 getgenv().OWNER = 'kylian977215'
 --\\-- Stand-Settings --//--
-getgenv().XK5NG = {
+getgenv().kylian972215 = {
     --\\-- ! Main ! --//--
     ['Position'] = 'Back', --Position Of Stand [Back | Left | Right]
     ['CrewID'] = 11029348, --Must Be In Group For It To Work
