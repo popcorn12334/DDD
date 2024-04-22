@@ -9,7 +9,7 @@ getgenv().Accounts = {OWNER = 'YourOwnerUsername', STAND = "YourStandUsername"} 
 
 --// ! Accounts ! \\--
 
-getgenv().Accounts = {OWNER = 'kylian972215', STAND = "AmenBot10"}
+getgenv().Accounts = {OWNER = 'kylian972215', STAND = "Kylian9722150"}
 
 --\\-- Stand-Settings --//--
 getgenv().StandConfig = {
